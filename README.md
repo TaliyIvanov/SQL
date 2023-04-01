@@ -5,8 +5,9 @@
 
 *Полезные ссылки:*
 
--курс Interactive SQL Trainer: https://stepik.org/course/63054/syllabus
-
--руководство по стилю SQL: https://www.sqlstyle.guide/ru/
-
--отформатировать ваш запрос с помощью: https://codebeautify.org/sqlformatter
+- курс Interactive SQL Trainer: https://stepik.org/course/63054/syllabus
+- руководство по стилю SQL: https://www.sqlstyle.guide/ru/
+- отформатировать ваш запрос с помощью: https://codebeautify.org/sqlformatter
+- https://sql-academy.org/ru/trainer?sort=byId
+- https://sqlzoo.net/wiki/SQL_Tutorial
+- https://www.sql-ex.ru/?Lang=0
